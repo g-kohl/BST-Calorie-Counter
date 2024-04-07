@@ -1,0 +1,43 @@
+Calories calculated for day2.csv using allSorted.csv:
+
+200g of pineapple juice (53 calories for 100g) = 106 calories
+50g of baguette (274 calories for 100g) = 137 calories
+20g of raspberries (52 calories for 100g) = 10 calories
+300g of hot chocolate (89 calories for 100g) = 267 calories
+30g of walnut cream cheese (342 calories for 100g) = 102 calories
+150g of omelette (154 calories for 100g) = 231 calories
+20g of canadian-style bacon (107 calories for 100g) = 21 calories
+370g of burger king double whopper with cheese (249 calories for 100g) = 921 calories
+500g of coca cola (42 calories for 100g) = 210 calories
+150g of ice cream sundae (142 calories for 100g) = 213 calories
+200g of coffee (1 calories for 100g) = 2 calories
+150g of peanut butter cookies (475 calories for 100g) = 712 calories
+190g of sparkling wine (190 calories for 100g) = 361 calories
+10g of balsamic vinaigrette dressing (290 calories for 100g) = 29 calories
+200g of lobster bisque soup (100 calories for 100g) = 200 calories
+20g of lettuce (15 calories for 100g) = 3 calories
+200g of pork ribs (292 calories for 100g) = 584 calories
+50g of white potatoes (94 calories for 100g) = 47 calories
+50g of bailey’s irish cream (327 calories for 100g) = 163 calories
+100g of chocolate mousse pie (260 calories for 100g) = 260 calories
+
+Total calories of the day: 4579
+
+AVL STATISTICS:
+Number of nodes: 1993
+Height: 12
+Number of rotations: 1869
+Number of comparisons: 200
+
+BST STATISTICS:
+Number of nodes: 1993
+Height: 1814
+Number of comparisons: 16742
+
+SPLAY STATISTICS:
+Number of nodes: 1993
+Height: 83
+Number of rotations: 3711
+Number of comparisons when inserting: 2230
+Number of comparisons when consulting: 1499
+Number of total comparisons: 3729
